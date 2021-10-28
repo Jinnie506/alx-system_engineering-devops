@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script displays "Best School" 10 times
+x="Best School"
+for _ in {0..9}; do echo "$x"; done

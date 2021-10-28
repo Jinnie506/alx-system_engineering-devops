@@ -9,5 +9,5 @@ do
 	then
 	    echo "Hi"
 	fi
-	let COUNT=COUNT+1
+	((COUNT=COUNT+1))
 done
